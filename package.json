@@ -1,0 +1,23 @@
+{
+  "name": "Angular",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "angular-init": "ng new App"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/austinStotts/Angular.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/austinStotts/Angular/issues"
+  },
+  "homepage": "https://github.com/austinStotts/Angular#readme",
+  "dependencies": {
+    "@angular/cli": "^7.3.2"
+  }
+}
